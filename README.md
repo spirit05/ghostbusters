@@ -1,6 +1,6 @@
 # Ghostbusters
 
-![Ghostbusters Logo](img/logo.png)  
+[Preview](https://spirit05.github.io/ghostbusters/) 
 
 ## Описание проекта
 Ghostbusters – это веб-приложение, разработанное с использованием HTML, CSS и JavaScript.
